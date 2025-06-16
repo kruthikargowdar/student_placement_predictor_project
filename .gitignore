@@ -1,0 +1,33 @@
+# Ignore virtual environment
+venv311/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+*.log
+
+venv310/
+
+# Python
+*.py[cod]
+
+
+# Virtual environments
+venv*/
+.venv*/
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache and Python stuff
+.streamlit/
+
+
+# Ignore IDE/editor files
+.vscode/
+*.code-workspace
